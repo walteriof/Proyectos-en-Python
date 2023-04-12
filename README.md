@@ -1,5 +1,5 @@
 ## Descripción: 
-Portfolio compuesto de proyectos elaborados en Python, durante el cursado de la Tecnicatura en Programación de la UTN FRVM 
+Tareas elaboradas en Python, durante el cursado de la Tecnicatura en Programación de la UTN FRVM, no tienen interfaz gráfica se utilizan en terminal.
 ## Autor:
 **Walter Damián Frenguelli**
 * [LinkedIn] (https://www.linkedin.com/in/walter-dami%C3%A1n-frenguelli-49b804152/)
